@@ -1,2 +1,2 @@
 # hello-world
-having a play
+Somewhere to play with some IoT ideas hopefully
